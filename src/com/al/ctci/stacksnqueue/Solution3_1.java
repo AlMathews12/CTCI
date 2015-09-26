@@ -1,4 +1,4 @@
-package com.al.ctci.stacksnqueue;
+//package com.al.ctci.stacksnqueue;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
